@@ -1,3 +1,11 @@
+# Tiny File Manager - Offline
+
+This is a fork of the single-file PHP [TinyFileManager](https://github.com/prasathmani/tinyfilemanager), modified with localized resources so it can be accessed without an internet connection (example case: between devices connected via LAN).
+
+Below is the project's official README.
+
+<br>
+
 # Tiny File Manager
 
 [![Live demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg?style=flat-square)](https://tinyfilemanager.github.io/demo/)
